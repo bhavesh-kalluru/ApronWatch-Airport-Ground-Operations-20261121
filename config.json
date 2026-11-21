@@ -1,0 +1,10 @@
+{
+  "project": "ApronWatch",
+  "title": "Airport Ground Operations",
+  "sector": "Aviation",
+  "subject": "airport gate",
+  "metric": "Turnaround delay",
+  "unit": "minutes",
+  "threshold": 20,
+  "sample": "Gate B12"
+}
